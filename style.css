@@ -1,0 +1,12 @@
+* {
+    font-family: 'Anonymous Pro', monospace;
+}
+
+.profile {
+    border-radius: 45%;
+    border-color: black;
+}
+
+.xyz {
+    background-color: white;
+}
