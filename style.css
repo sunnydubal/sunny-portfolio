@@ -6,3 +6,7 @@
 .xyz {
     border-radius: 4rem;
 }
+
+.container {
+    gap: 50px;
+}
