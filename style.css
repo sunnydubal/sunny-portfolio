@@ -1,6 +1,8 @@
 * {
     font-family: 'Anonymous Pro', monospace;
     overflow-x: hidden;
+    background-color: black;
+    text-color: white;
 }
 
 .xyz {
